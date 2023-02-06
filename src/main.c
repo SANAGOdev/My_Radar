@@ -10,4 +10,5 @@
 int main(int argc, char **argv)
 {
     my_radar(argc, argv);
+    return 0;
 }
